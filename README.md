@@ -117,7 +117,8 @@ Eladin(엘라딘)
 
 ### 5-1. 인프라 구조
 
-![image](/uploads/8641e64efcb2892e86fcd1bf11630892/image.png)<br />
+![image](https://user-images.githubusercontent.com/91370858/211750316-dfb65f0c-1c24-44fb-a1a4-48c5d4969bd4.png)
+<br />
 
 ### 5-2. 폴더 구조
 
