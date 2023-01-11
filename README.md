@@ -92,7 +92,7 @@ https://user-images.githubusercontent.com/81899298/205063186-75ec3db7-495f-4172-
 
 |                               Bulma                               |                                     LocalStorage                                     |                                                                                                                 SessionStorage                                                                                                                  |
 | :---------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://bulma.io/images/bulma-logo.png" width="100px"/> | <img src="https://gyumin-kim.github.io/assets/img/local-storage.jpg" width="100px"/> | <img src="https://w.namu.la/s/6f8695350c52d8a6f07a30787fdd07ed65e77e010c16732832924d0effa75207dccdd972b8c7f5b9e7077c006e48cadde42f66172c11432a3c92e4407b4fcfdcc040e36fb74b8ec45f9aa61f910ba06893a395fc4ff48acf6711ccfdae2761c3" width="100px"/> |
+| <img src="https://bulma.io/images/bulma-logo.png" width="100px"/> | <img src="https://gyumin-kim.github.io/assets/img/local-storage.jpg" width="100px"/> | <img src="https://user-images.githubusercontent.com/91370858/211752086-4c0f81d4-f4f3-4e98-8cf3-a2b8ed395dd2.png" width="100px"/> |
 
 ### 4-2. BE
 
@@ -144,7 +144,3 @@ PORT=8000
 npm start
 ```
 <br>
-
-## 7. 버전
-
-### 1.0.0
